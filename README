@@ -1,0 +1,8 @@
+this is a small eclipse project that i use for demoing basic android concepts like activity, intent, manifest, resources and such at talks for college students.
+
+to use this you'll require:
+
+- eclipse IDE
+- android sdk
+	- google api v7
+- adt
